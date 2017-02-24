@@ -20,4 +20,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+    private void testMeth(){
+        int i = 1 + 1;
+    }
 }
